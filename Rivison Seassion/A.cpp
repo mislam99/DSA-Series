@@ -16,7 +16,7 @@ int main()
     {
         case '+':
         result = a+b;
-        cout<<result<<endl;
+        cout<<"sum is : "<<result<<endl;
         break;
         case '-':
         result = a-b;
